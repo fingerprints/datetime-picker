@@ -173,7 +173,7 @@ declare var moment: any;
   animation-fill-mode: both;
 }
 .ng2-datetime-picker .days {
-  width: 210px; /* 30 x 7 days */
+  width: 230px; /* 30 x 7 days */
 }
 .ng2-datetime-picker .close-button {
   position: absolute;
@@ -234,9 +234,9 @@ declare var moment: any;
   vertical-align: top;
 }
 
-.ng2-datetime-picker  .days {
+.ng2-datetime-picker .days {
   display: inline-block;
-  width: 210px; /* 30 x 7 */
+  width: 230px; /* 30 x 7 */
   text-align: center;
   padding: 0 10px;
 }
